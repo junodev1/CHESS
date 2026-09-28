@@ -1,0 +1,14 @@
+{
+  "name": "juno-chess",
+  "version": "1.0.0",
+  "description": "Offline chess game by Juno Delos Santos",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo No build step required"
+  },
+  "dependencies": {
+    "@capacitor/core": "^7.4.0",
+    "@capacitor/android": "^7.4.0",
+    "@capacitor/cli": "^7.4.0"
+  }
+}
